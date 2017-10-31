@@ -1,0 +1,36 @@
+.Heading{
+    font-family: times;
+    text-align: center;
+    background-color: antiquewhite;
+    color: indianred;
+    border-radius: 50px;
+}
+
+.Heading2{
+    
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    border-radius:100%;
+    color: indianred;
+    
+}
+
+.Heading3{
+     font-family: pacifico;
+     text-align: center;
+     font-size: 50px;
+      color:black;
+}
+
+.Heading4{
+    
+font-family: 'Indie Flower', cursive;     
+    text-align: center;
+     font-size: 30px;
+     color:blueviolet;
+     
+}
+body{
+    border-radius: 50px;
+    background-image: url(https://s-media-cache-ak0.pinimg.com/originals/cf/91/4d/cf914d217bb7c154917ab97f14702a80.jpg);
+}
