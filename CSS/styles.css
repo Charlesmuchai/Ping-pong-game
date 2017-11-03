@@ -1,7 +1,7 @@
 .Heading{
     font-family: times;
     text-align: center;
-    background-color: antiquewhite;
+    background-image: url()
     color: indianred;
     border-radius: 50px;
 }
@@ -20,6 +20,7 @@
      text-align: center;
      font-size: 50px;
       color:black;
+    font-weight: 100%;
 }
 
 .Heading4{
@@ -27,12 +28,32 @@
 font-family: 'Indie Flower', cursive;     
     text-align: center;
      font-size: 30px;
-     color:blueviolet;
+     color:#260d1a;
     
      
 }
 body{
     border-radius: 50px;
-    background-image: url(https://s-media-cache-ak0.pinimg.com/originals/cf/91/4d/cf914d217bb7c154917ab97f14702a80.jpg);
+    background-image: url(http://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero-00e10b1f.jpg);
     
+}
+
+@keyframes animatedBackground {
+	from { background-position: 0 0; }
+	to { background-position: 100% 0; }
+}
+
+.Heading4{ 
+	background-image: url(https://davidwalsh.name/demo/bg-clouds.png);
+	background-repeat: repeat-x;
+
+	animation: animatedBackground 40s linear infinite;
+}
+
+
+.mama{
+    text-align: center;
+    color:aqua;
+    font-family:sans-serif;
+
 }
