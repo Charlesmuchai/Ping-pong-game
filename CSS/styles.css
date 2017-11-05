@@ -1,8 +1,7 @@
 .Heading{
     font-family:'Fontdiner Swanky', cursive;
     text-align: center;
-    background-image: url()
-    color: indianred;
+    color: navajowhite;
     border-radius: 50px;
 }
 
@@ -21,6 +20,7 @@
      font-size: 50px;
       color:black;
     font-weight: 100%;
+
 }
 
 .Heading4{
@@ -34,7 +34,7 @@ font-family: 'Indie Flower', cursive;
 }
 body{
     border-radius: 50px;
-    background-image: url(http://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero-00e10b1f.jpg);
+    background-image: url(http://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero-00e10b1f.jp);
     
 }
 
