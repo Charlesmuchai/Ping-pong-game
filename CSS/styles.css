@@ -6,12 +6,12 @@
 }
 
 .Heading2{
-    
+
     font-family: "Times New Roman", Times, serif;
     text-align: center;
     border-radius:100%;
     color: indianred;
-    
+
 }
 
 .Heading3{
@@ -24,18 +24,17 @@
 }
 
 .Heading4{
-    
-    font-family: 'Pacifico', cursive;    
+
+    font-family: 'Pacifico', cursive;
     text-align: center;
      font-size: 30px;
      color:#260d1a;
-    
-     
 }
+
 body{
     border-radius: 50px;
-    background-image: url(http://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero-00e10b1f.jp);
-    
+    background-image: url(https://www.bypeople.com/wp-content/uploads/2015/07/svg-low-poly-background-css-js-snippet.jpg);
+
 }
 
 @keyframes animatedBackground {
@@ -43,7 +42,7 @@ body{
 	to { background-position: 100% 0; }
 }
 
-.Heading4{ 
+.Heading4{
 	background-image: url(https://davidwalsh.name/demo/bg-clouds.png);
 	background-repeat: repeat-x;
 
