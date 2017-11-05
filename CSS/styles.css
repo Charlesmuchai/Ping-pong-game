@@ -1,5 +1,5 @@
 .Heading{
-    font-family:'Fontdiner Swanky', cursive;
+    font-family: 'Audiowide', cursive;
     text-align: center;
     color: navajowhite;
     border-radius: 50px;
@@ -7,7 +7,7 @@
 
 .Heading2{
 
-    font-family: "Times New Roman", Times, serif;
+    font-family: 'Pacifico', cursive;
     text-align: center;
     border-radius:100%;
     color: indianred;
@@ -15,10 +15,10 @@
 }
 
 .Heading3{
-     font-family: 'Permanent Marker', cursive;
+     font-family: 'Pacifico', cursive;
      text-align: center;
      font-size: 50px;
-      color:black;
+      color:mediumpurple;
     font-weight: 100%;
 
 }
@@ -28,7 +28,7 @@
     font-family: 'Pacifico', cursive;
     text-align: center;
      font-size: 30px;
-     color:#260d1a;
+     color:mediumpurple;
 }
 
 body{
@@ -46,7 +46,7 @@ body{
 	background-repeat: repeat-x;
   border-radius: 10px;
 	animation: animatedBackground 40s linear infinite;
-  font-family:  'Sacramento', cursive;
+  font-family: 'Pacifico', cursive;
   font-weight: 300%;
   padding:inherit;
   border-bottom: 10px;
@@ -57,7 +57,7 @@ body{
 .mama{
     text-align: center;
     color:#ff9966;
-    font-family:'Bangers', cursive;
+    font-family: 'Pacifico', cursive;
 
 }
 .image{
