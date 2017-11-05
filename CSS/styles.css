@@ -45,10 +45,11 @@ body{
 .Heading4{
 	background-image: url(https://davidwalsh.name/demo/bg-clouds.png);
 	background-repeat: repeat-x;
-
+  border-radius: 10px;
 	animation: animatedBackground 40s linear infinite;
     font-family:  'Sacramento', cursive;
     font-weight: 300%;
+    padding:inherit;
 }
 
 
