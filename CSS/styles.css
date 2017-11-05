@@ -33,8 +33,7 @@
 
 body{
     border-radius: 50px;
-    background-image: url(https://www.bypeople.com/wp-content/uploads/2015/07/svg-low-poly-background-css-js-snippet.jpg);
-
+    background-image: url(http://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero-00e10b1f.jpg);
 }
 
 @keyframes animatedBackground {
@@ -47,15 +46,17 @@ body{
 	background-repeat: repeat-x;
   border-radius: 10px;
 	animation: animatedBackground 40s linear infinite;
-    font-family:  'Sacramento', cursive;
-    font-weight: 300%;
-    padding:inherit;
+  font-family:  'Sacramento', cursive;
+  font-weight: 300%;
+  padding:inherit;
+  border-bottom: 10px;
+
 }
 
 
 .mama{
     text-align: center;
-    color:rebeccapurpleS;
+    color:#ff9966;
     font-family:'Bangers', cursive;
 
 }
